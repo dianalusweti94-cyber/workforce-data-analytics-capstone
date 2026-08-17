@@ -1,5 +1,6 @@
 # workforce-data-analytics-capstone
-End-to-end workforce data analysis using Excel, Python, SQL and Power BIWorkforce Data Analytics Capstone Project
+End-to-end workforce data analysis using Excel, Python, SQL and Power BI
+Workforce Data Analytics Capstone Project
 
 Overview
 An end-to-end data analytics project analysing workforce data to identify patterns and insights related to employee performance, education, health, department performance and compensation.
